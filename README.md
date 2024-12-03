@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeremymrhodes
 - 👀 I’m interested in ... Learning how this platform works.
-- 🌱 I’m currently learning ... More to follow.
+- 🌱 I’m currently learning ... How to setup a network with DC and Kerberos with Cisco PacketTracer. 
 - 💞️ I’m looking to collaborate on ... Solo for now. 
 - 📫 How to reach me ...
 - 😄 Pronouns: ... What the fuck?
